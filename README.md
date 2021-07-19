@@ -11,8 +11,8 @@
 ## Progress
 
 - [x] HTML ✔
-- [ ] CSS 
-- [x] Bulma
+- [x] CSS ✔
+- [ ] Bulma
 - [ ] Javascript
 - [ ] React
 - [ ] NodeJS
