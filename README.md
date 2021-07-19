@@ -12,7 +12,7 @@
 
 - [x] HTML ✔
 - [ ] CSS 
-- [ ] Bulma
+- [x] Bulma
 - [ ] Javascript
 - [ ] React
 - [ ] NodeJS
