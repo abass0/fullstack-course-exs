@@ -1,0 +1,23 @@
+h1 {
+    font-family: Montserrat;
+}
+
+.date {
+    color: teal;
+    font-family: Roboto;
+}
+
+.post-content {
+    font-family: 'Open Sans';
+    padding-bottom: 2rem;
+    padding-top: 0.2rem;
+}
+
+.post {
+    background-color: #fffafa;
+    margin: auto 200px auto 200px;
+}
+
+hr {
+    margin: auto 200px auto 200px;
+}
