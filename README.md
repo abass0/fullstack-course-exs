@@ -14,6 +14,7 @@
 - [x] CSS ✔
 - [x] Bulma ✔
 - [ ] Javascript
+    - [x] First Steps ✔
 - [ ] React
 - [ ] NodeJS
 - [ ] Final Project
